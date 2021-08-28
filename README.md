@@ -1,6 +1,6 @@
 ## Daniel Roberson
 
-I hate computers.
+I hate computers. Follow me on social media.
 
 [![Twitter](https://img.shields.io/twitter/follow/dmfroberson?style=social)](https://twitter.com/dmfroberson)
 
